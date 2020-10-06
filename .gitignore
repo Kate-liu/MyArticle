@@ -1,4 +1,4 @@
-/.idea/
+﻿/.idea/
 */.DS_Store
 
 
@@ -39,3 +39,5 @@
 /5-开发技术/assets/
 /7-英语语法与音标/.Archive/
 /7-英语语法与音标/_image/
+
+/8-面试笔记/*.assets/
